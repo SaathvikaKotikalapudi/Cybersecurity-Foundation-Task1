@@ -87,3 +87,19 @@ This task provided practical experience with cybersecurity fundamentals, Linux c
 ## Note
 
 All practical activities were performed only within the authorized private cybersecurity laboratory.
+
+## Evidence
+
+Screenshots of the practical work are included in this repository, covering:
+
+- Virtual lab setup
+- Kali Linux and Metasploitable2
+- Network connectivity
+- OpenSSL encryption and decryption
+- Wireshark packet capture
+- Nmap scanning
+- Burp Suite HTTP request analysis
+
+## Documentation
+
+The complete lab setup report was prepared as part of Task 1.
